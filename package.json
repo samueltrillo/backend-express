@@ -1,0 +1,15 @@
+{
+  "name": "samuel-package",
+  "version": "1.0.0",
+  "description": "Ejemplo de clase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/controller/character/index.js"
+  },
+  "author": "Samuel Trillo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
